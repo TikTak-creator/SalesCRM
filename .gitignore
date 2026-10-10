@@ -1,0 +1,17 @@
+## .NET Build Artifacts
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+
+## Node & Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.tmp/
+
+## OS Files
+Thumbs.db
+Desktop.ini
+.DS_Store
